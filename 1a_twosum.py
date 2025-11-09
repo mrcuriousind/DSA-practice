@@ -9,6 +9,4 @@ for i in range(len(nums)):
             if x+y == target:
                 result.append(x)
                 result.append(y)
-                
-    
 print(result)
